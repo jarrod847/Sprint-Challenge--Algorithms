@@ -1,15 +1,12 @@
-#### Please add your answers to the ***Analysis of  Algorithms*** exercises here.
+#### Please add your answers to the **_Analysis of Algorithms_** exercises here.
 
 ## Exercise I
 
-a)
-
+a) 0(n)
+It's 0(n) because multiplying is the highest order of operation
 
 b)
-
 
 c)
 
 ## Exercise II
-
-
